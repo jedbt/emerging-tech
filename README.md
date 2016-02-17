@@ -6,7 +6,7 @@ This will let us do the basics of a comit, branch and pull in the browser. You s
 
 To creat code blocks, use three bacticks (under the tilde key) and then add the name of the language (e.g. css), insert the code, then three more backticks on their own line.. This is an example:
 ```css
-}
+
 		#week:nth-child(even) {
 			background-color: #dedede;
 		}
