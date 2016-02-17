@@ -12,4 +12,4 @@ To creat code blocks, use three backticks (under the tilde key) and then add the
 		}
 ```
 Now you should be back in normal text.
-You can do a lot of HTML things in Markdown (.md) files with similar syntax, but for most of them I'd just use HTML, e.g. to make these words <strong>bold words</strong>.
+You can do a lot of HTML things in Markdown (.md) files with similar syntax, but for most of them I'd just use HTML, e.g. to make  <strong>bold words</strong>.
